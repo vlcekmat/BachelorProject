@@ -1,3 +1,5 @@
+# Bakalářská práce - Matěj Vlček
+
  .
 ├── examples..............adresář s ukázkami výsledné aplikace
 ├── assignment............zadání z KOSu (v době psaní bakalářky nebylo podepsané, přestože zadání bylo              dříve schválené v Projects)
