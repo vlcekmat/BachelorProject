@@ -1,4 +1,4 @@
-# Bakalářská práce - Matěj Vlček
+Bakalářská práce - Matěj Vlček
 
  .
 ├── examples..............adresář s ukázkami výsledné aplikace
