@@ -78,5 +78,7 @@ localhostu ve vývojovém režimu proveďte následující kroky:
 Frontendová aplikace je nyní dostupná na `http://localhost:3000`
 
 ### Repozitáře
-Backendová aplikace: https://gitlab.fit.cvut.cz/vlcekm15/bak_survey_server.git
-Frontendová aplikace: https://gitlab.fit.cvut.cz/vlcekm15/bak_survey_client.git
+Backendová aplikace: https://github.com/vlcekmat/bak_survey_server
+
+Frontendová aplikace: https://github.com/vlcekmat/bak_survey_client
+
